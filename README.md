@@ -1,9 +1,9 @@
-## cutsweettea 🫖
+## Cut Sweet Tea 🫖
 
-hello!!
+hello, this is about me!!
+- 🏳️‍🌈 18 year old
+- ⛷️ i love skiing
 - 🧑‍💻 fluent with python, html/css & js/ts
 - 🦀 learning rust
-- ⛷️ i love skiing
 
-*"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human"*
-\- Alan Turing
+*"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human"* - Alan Turing
