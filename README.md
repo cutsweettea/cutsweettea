@@ -1,10 +1,8 @@
-## cutsweettea
+## cutsweettea 🫖
 
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100vw;">
-    <div>
-        <p>hi</p>
-    </div>
-    <div>
-        <p>hello</p>
-    </div>
-</div>
+hello!!
+- 🧑‍💻 fluent with python, html/css & js/ts
+- 🦀 learning rust
+- ⛷️ i love skiing
+
+*"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human"*
