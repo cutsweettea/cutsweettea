@@ -3,7 +3,7 @@
 hello, this is about me!!
 - 🏳️‍🌈 18 year old male
 - ⛷️ i love skiing
-- 🧑‍💻 fluent with python & js/ts
+- 🧑‍💻 fluent with python
 - 📚 freshman in college
 
 My website is <a href="https://umatter.sh/">umatter.sh</a> <br>
