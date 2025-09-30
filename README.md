@@ -1,7 +1,7 @@
 ## Cut Sweet Tea 🫖
 
 hello, this is about me!!
-- 🏳️‍🌈 18 year old male
+- 🇺🇸 18 year old male
 - ⛷️ i love skiing
 - 🧑‍💻 fluent with python
 - 📚 freshman in college
