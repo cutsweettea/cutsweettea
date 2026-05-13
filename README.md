@@ -6,6 +6,6 @@ hello, this is about me!!
 - 🧑‍💻 fluent with python
 - 📚 freshman in college
 
-[my website](https://jugg.school)
+[my website](https://preview.jugg.school)
 
 *"A computer would deserve to be called intelligent if it could deceive a human into believing that it was human"* - Alan Turing
